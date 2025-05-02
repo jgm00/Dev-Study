@@ -12,3 +12,7 @@
 - [MLOps](./MLOps/)
   - [MLOps 개요](./MLOps/01.%20MLOps%20개요.md)
   - [ML 연구에서 실제 서비스로의 전환](./MLOps/02.%20ML%20연구에서%20실제%20서비스로의%20전환.md)
+
+### BackEnd
+- [Spring](./Spring/)
+  - [JPA vs MyBatis 외래 키 처리 방식 비교](./Spring/01.%20JPA%20vs%20MyBatis%20외래%20키%20처리%20방식%20비교.md)
