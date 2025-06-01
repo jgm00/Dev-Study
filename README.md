@@ -12,6 +12,7 @@
 - [MLOps](./MLOps/)
   - [MLOps 개요](./MLOps/01.%20MLOps%20개요.md)
   - [ML 연구에서 실제 서비스로의 전환](./MLOps/02.%20ML%20연구에서%20실제%20서비스로의%20전환.md)
+  - [MLOps 실전 도입 전략](./MLOps/03.%20MLOps%20실전%20도입%20전략.md)
 - [ML](./ML/)
   - [피처 스케일링 비교 정규화(Normalization) vs 표준화(Standardization)](./ML/01.%20피처%20스케일링%20비교%20정규화(Normalization)%20vs%20표준화(Standardization).md)
   - [DTW(Dynamic Time Warping)](./ML/02.%20DTW(Dynamic%20Time%20Warping).md)
