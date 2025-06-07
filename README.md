@@ -22,7 +22,7 @@
 - [Network](./Network/)
   - [VPN 동작 원리](./Network/01.%20VPN%20동작%20원리.md)
   - [WebSocket VS HTTPS](./Network/02.%20WebSocket%20VS%20HTTPS.md)
-  [- Heartbeat 개요](./Network/03.%20Heartbeat%20개요.md)
+  - [Heartbeat 개요](./Network/03.%20Heartbeat%20개요.md)
 
 ### BackEnd
 - [Spring](./Spring/)
