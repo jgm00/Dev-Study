@@ -23,6 +23,7 @@
   - [VPN 동작 원리](./Network/01.%20VPN%20동작%20원리.md)
   - [WebSocket VS HTTPS](./Network/02.%20WebSocket%20VS%20HTTPS.md)
   - [Heartbeat 개요](./Network/03.%20Heartbeat%20개요.md)
+  - [6G 저궤도 인공위성 네트워크 개요](./Network/04.%206G%20저궤도%20인공위성%20네트워크%20개요.md)
 
 ### BackEnd
 - [Spring](./Spring/)
