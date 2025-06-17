@@ -29,3 +29,4 @@
 - [Spring](./Spring/)
   - [JPA vs MyBatis 외래 키 처리 방식 비교](./Spring/01.%20JPA%20vs%20MyBatis%20외래%20키%20처리%20방식%20비교.md)
   - [예외(Exception)와 반환(Return)의 차이](./Spring/02.%20예외(Exception)와%20반환(Return)의%20차이.md)
+  - [ENUM vs 공통 코드 테이블 : 왜 참조 테이블이 더 나은 선택인가](./Spring/03.%20ENUM%20vs%20공통%20코드%20테이블.md)
