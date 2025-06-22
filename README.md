@@ -25,8 +25,10 @@
   - [Heartbeat 개요](./Network/03.%20Heartbeat%20개요.md)
   - [6G 저궤도 인공위성 네트워크 개요](./Network/04.%206G%20저궤도%20인공위성%20네트워크%20개요.md)
 
+- [Database](./Database/)
+  - [ENUM vs 공통 코드 테이블 : 왜 참조 테이블이 더 나은 선택인가](./Database/01.%20ENUM%20vs%20공통%20코드%20테이블.md)
+
+
 ### BackEnd
 - [Spring](./Spring/)
-  - [JPA vs MyBatis 외래 키 처리 방식 비교](./Spring/01.%20JPA%20vs%20MyBatis%20외래%20키%20처리%20방식%20비교.md)
-  - [예외(Exception)와 반환(Return)의 차이](./Spring/02.%20예외(Exception)와%20반환(Return)의%20차이.md)
-  - [ENUM vs 공통 코드 테이블 : 왜 참조 테이블이 더 나은 선택인가](./Spring/03.%20ENUM%20vs%20공통%20코드%20테이블.md)
+  - [예외(Exception)와 반환(Return)의 차이](./Spring/01.%20예외(Exception)와%20반환(Return)의%20차이.md)
